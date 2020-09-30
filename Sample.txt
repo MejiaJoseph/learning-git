@@ -1,1 +1,2 @@
-Shell Hacks
+Welcome ShellHacks 2020!
+I am Git
